@@ -77,7 +77,7 @@ Deployed using **Gradio** for real-time sentiment prediction.
 ## 📁 File Overview
 
 - `Financial_Sentiment_Analysis.ipynb` – Complete notebook with training, evaluation, and Gradio UI  
-- `gradio.png` – Screenshots of the Gradio interface  
+- `gradio_screenshots/` – Folder containing screenshots of the Gradio interface
 - `README.md` – Project documentation
 
 ---
