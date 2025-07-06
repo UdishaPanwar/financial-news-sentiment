@@ -55,7 +55,7 @@ Deployed using **Gradio** for real-time sentiment prediction.
 ## 🧰 Technologies Used
 
 - **Languages**: Python  
-- **Tools**: Google Colab, VS Code, GitHub  
+- **Tools**: Google Colab, GitHub  
 - **Libraries/Models**:  
   - FinBERT (via Hugging Face Transformers)  
   - XGBoost  
